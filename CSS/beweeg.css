@@ -1,0 +1,112 @@
+@keyframes beweeg {
+  0% {
+    transform: rotate(0deg);
+    top: 37%;
+    right: 0;
+    left: 0;
+	}
+  100% {
+    transform: rotate(360deg);
+    top: 37%;
+    right: 0;
+    left: 0;
+  }
+}
+
+@keyframes beweeg {
+  0% {
+    transform: rotate(0deg);
+    top: 37%;
+    right: 0;
+    left: 0;
+	}
+  100% {
+    transform: rotate(360deg);
+    top: 37%;
+    right: 0;
+    left: 0;
+  }
+}
+
+@keyframes beweeg {
+  0% {
+    transform: rotate(0deg);
+    position: fixed;
+    top: 21%;
+    right: 0%;
+    left: 48%;
+    transform: scale(0.1);
+	}
+  10% {
+    transform: rotate(0deg);
+    position: fixed;
+    top: 26%;
+    right: 0%;
+    left: 48%;
+  }
+  20% {
+    transform: rotate(-360deg);
+    position: fixed;
+    top: 38%;
+    right: 0%;
+    left: 69%;
+  }
+  30% {
+    transform: rotate(0);
+    position: fixed;
+    top: 70%;
+    right: 0%;
+    left: 60%;
+  }
+  40% {
+    transform: rotate(360deg);
+    position: fixed;
+    top: 80%;
+    right: 0%;
+    left: 20%;
+  }
+  50% {
+    transform: rotate(1440deg);
+    position: fixed;
+    top: 70%;
+    right: 90%;
+    left: 10%;
+  }
+  60% {
+    transform: rotate(0);
+    position: fixed;
+    top: 20%;
+    right: 0%;
+    left: 30%;
+  }
+  70% {
+    transform: rotate(-360deg);
+    position: fixed;
+    top: 40%;
+    right: 0%;
+    left: 80%;
+  }
+  80% {
+    transform: rotate(0);
+    position: fixed;
+    top: 70%;
+    right: 0%;
+    left: 70%;
+  }
+  90% {
+    transform: rotate(360deg);
+    position: fixed;
+    top: 20%;
+    right: 0%;
+    left: 40%;
+  }
+  100% {
+      transform: rotate(0deg);
+      position: fixed;
+      top: 21%;
+      right: 0%;
+      left: 48%;
+      transform: scale(0.1);
+  	}
+  }
+}
